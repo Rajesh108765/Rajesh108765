@@ -1,10 +1,10 @@
 
 
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN INDIAN -SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-     (RAJESH)
+    RAJESH108765 (RAJESH)
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
@@ -16,7 +16,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tor.nanir.nathjamai.rajesh&label=Profile%20views&color=eb4d3d&style=flat-square" alt="RAJESH108765" /> </p>
 </i></b></h3>
@@ -111,4 +111,4 @@
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/RAJESH108765/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=RAJESH108765&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- 
+  
